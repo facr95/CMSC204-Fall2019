@@ -1,0 +1,4 @@
+-finish project
+-print out hw
+-do online quiz
+-send emails
