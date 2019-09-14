@@ -1,12 +1,12 @@
-- Wake up
-- Brush my teeth
-- Eat breakfast
-- Go to class
-- Eat lunch
-- Go to work
-- Go to the gym
-- Take a shower
-- Review class material
-- Do homework
-- Eat dinner
+- Wake up DONE
+- Brush my teeth DONE
+- Eat breakfast DONE
+- Go to class DONE
+- Eat lunch DONE
+- Go to work DONE
+- Go to the gym DONE
+- Take a shower DONE
+- Review class material DONE
+- Do homework DONE
+- Eat dinner DONE
 - Go to sleep
